@@ -17,3 +17,11 @@ $ git clone https://github.com/seanmyung/single-page-application-with-angularjs.
 * To test the REST API, open your web browser and browse to `http://localhost:5000/api/recipes` You should see a list of recipes displayed in JSON format.
 
 * You can press `Ctrl-C` to stop the Node.js application.
+
+## Images In ReadMes
+![](public/images/Screen%20Shot1.png)
+![](public/images/Screen%20Shot2.png)
+![](public/images/Screen%20Shot3.png)
+![](public/images/Screen%20Shot4.png)
+![](public/images/Screen%20Shot5.png)
+![](public/images/Screen%20Shot6.png)
